@@ -184,9 +184,9 @@ Load.MouseButton1Down:Connect(function()
 
 	end
 
-        if game.PlaceId == 662417684 then
+        if game.PlaceId == 6284583030 then
 
-		loadstring(game:HttpGet(("https://raw.githubusercontent.com/Maikderninja/Maikderninja/main/Lucky%20block.lua"), true))()
+		loadstring(game: HttpGet(('https://raw.githubusercontent.com/8163276/ProjectWD/main/Mainstring.lua'),true))()
 
         end
 
