@@ -184,11 +184,6 @@ Load.MouseButton1Down:Connect(function()
 
 	end
 
-        if game.PlaceId == 6284583030 then
-
-	        loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a82cd5447cbbc4c7be0e8db405555787.lua"))()
-        end
-
 	Loader:Destroy()
 
 end)
