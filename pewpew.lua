@@ -92,7 +92,7 @@ backround.Position = UDim2.new(-0.00031067431, 0, 0.973583341, 0)
 
 backround.Size = UDim2.new(1, 0, 13.4285717, 0)
 
-backround.Image = "rbxassetid://13551406106
+backround.Image = "rbxassetid://11582037548"
 
 welcome.Name = "Welcome"
 
@@ -187,12 +187,6 @@ Load.MouseButton1Down:Connect(function()
         if game.PlaceId == 662417684 then
 
 		loadstring(game:HttpGet(("https://raw.githubusercontent.com/Maikderninja/Maikderninja/main/Lucky%20block.lua"), true))()
-
-        end
-		
-	if game.PlaceId == 6284583030 then
-
-		loadstring(game:HttpGet(("loadstring(game: HttpGet(('https://raw.githubusercontent.com/8163276/ProjectWD/main/Mainstring.lua'),true))()"), true))()
 
         end
 
