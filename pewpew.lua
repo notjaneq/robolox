@@ -94,6 +94,8 @@ backround.Size = UDim2.new(1, 0, 13.4285717, 0)
 
 backround.Image = "rbxassetid://13551406106"
 
+UICorner.Parent = backround
+
 welcome.Name = "Welcome"
 
 welcome.Parent = backround
