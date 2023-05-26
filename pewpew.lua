@@ -92,7 +92,7 @@ backround.Position = UDim2.new(-0.00031067431, 0, 0.973583341, 0)
 
 backround.Size = UDim2.new(1, 0, 13.4285717, 0)
 
-backround.Image = "rbxassetid://11582037548"
+backround.Image = "rbxassetid://13551406106"
 
 welcome.Name = "Welcome"
 
