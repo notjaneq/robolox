@@ -66,7 +66,7 @@ exe.Size = UDim2.new(0.30674848, 0, 1.78571427, 0)
 
 exe.Font = Enum.Font.SourceSans
 
-exe.Text = "Janeq's Hub V1.exe"
+exe.Text = "Coems Hub V1.exe"
 
 exe.TextColor3 = Color3.fromRGB(255, 255, 255)
 
@@ -108,7 +108,7 @@ welcome.Size = UDim2.new(0.415954888, 0, 0.276283294, 0)
 
 welcome.Font = Enum.Font.SourceSans
 
-welcome.Text = "Welcome to Janeq's Hub V1!"
+welcome.Text = "Welcome to Coems Hub V1!"
 
 welcome.TextColor3 = Color3.fromRGB(255, 255, 255)
 
@@ -136,7 +136,7 @@ Load.Size = UDim2.new(0.523006141, 0, 4.07142878, 0)
 
 Load.Font = Enum.Font.SourceSans
 
-Load.Text = "Load Janeq's Hub V1"
+Load.Text = "Load Coems Hub V1"
 
 Load.TextColor3 = Color3.fromRGB(255, 255, 255)
 
@@ -254,7 +254,7 @@ Copy.TextWrapped = true
 
 Copy.MouseButton1Down:Connect(function()
 
-	setclipboard("https://discord.gg/rQEHvHFGNf")
+	setclipboard("https://discord.gg/8wyEcePWpD")
 
 end)
 
