@@ -39,7 +39,7 @@ Title.BackgroundTransparency = 1.000
 Title.Position = UDim2.new(0.183329239, 0, 0.246382296, 0)
 Title.Size = UDim2.new(0.632528603, 0, 0.232815996, 0)
 Title.Font = Enum.Font.FredokaOne
-Title.Text = "Arkhalis"
+Title.Text = "Coems Hub"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextScaled = true
 Title.TextSize = 14.000
@@ -182,15 +182,15 @@ local function SNUMK_fake_script()
 	local tip = script.Parent
 	while true do
 		wait(5)
-		tip.Text = "Bypassing ac"
+		tip.Text = "Bypassing ac..."
 		wait(5)
-		tip.Text = "Loading Modules"
+		tip.Text = "Getting Assets..."
 		wait(5)
-		tip.Text = "Ur Gay"
+		tip.Text = "Getting GUI's..."
 		wait(5)
-		tip.Text = "Arkhalis Better"
+		tip.Text = "Getting Scripts..."
 		wait(5)
-		tip.Text = "Join Now "
+		tip.Text = "Almost done"
 	end
 end
 coroutine.wrap(SNUMK_fake_script)()
