@@ -1,6 +1,6 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Thanks!";
-    Text = "This script uses Paxz's psx api";
+    Text = "This script uses Coems Hub API";
     Icon = "rbxassetid://9753879195";
     Duration = 5;
     })
