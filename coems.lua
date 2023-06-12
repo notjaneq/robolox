@@ -254,7 +254,7 @@ Copy.TextWrapped = true
 
 Copy.MouseButton1Down:Connect(function()
 
-	setclipboard("https://discord.gg/8wyEcePWpD")
+	setclipboard("https://discord.gg/scripter")
 
 end)
 
